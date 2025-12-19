@@ -84,7 +84,7 @@
 .bg-img{
     background-image: url(assets/image/slider-02.jpg);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     background-position:center;
 }
